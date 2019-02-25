@@ -1,3 +1,1 @@
-# demo
-
-Demp Application for POC
+Demo Application
